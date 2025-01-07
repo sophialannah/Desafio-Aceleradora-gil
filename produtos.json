@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Carregador",
+        "categoria": "Acessórios",
+        "quantidade": 150,
+        "preco": 79.99
+    },
+    {
+        "id": 2,
+        "nome": "Mouse Logitech",
+        "categoria": "Acessórios",
+        "quantidade": 80,
+        "preco": 249.99
+    },
+    {
+        "id": 3,
+        "nome": "Tablet Samsung",
+        "categoria": "Wearables",
+        "quantidade": 120,
+        "preco": 1499.99
+    },
+    {
+        "id": 4,
+        "nome": "Fone de Ouvido Apple",
+        "categoria": "Acessórios",
+        "quantidade": 65,
+        "preco": 2499.99
+    },
+    {
+        "id": 5,
+        "nome": "Notebook Asus",
+        "categoria": "Laptops",
+        "quantidade": 45,
+        "preco": 4999.99
+    }
+]
