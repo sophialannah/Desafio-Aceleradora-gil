@@ -1,8 +1,11 @@
 Guia para Rodar o Projeto
+
 Tecnologias Utilizadas
 Python: Plataforma de execução para construir a aplicação.
 JSON: Para persistência dos dados em um arquivo local chamado inventario.json.
+
 Funções básicas do Python: Para manipulação do inventário e interação com o usuário via terminal.
+
 Como Rodar o Projeto
 Pré-requisitos
 Certifique-se de ter o Python instalado. Você pode verificar a instalação com o comando:
@@ -41,15 +44,19 @@ Nome
 Categoria
 Quantidade
 Preço
+
 Listar Produtos: Exibe todos os produtos cadastrados em formato tabular, com:
 ID
 Nome
 Categoria
 Quantidade
 Preço
+
 Atualizar Produto: Atualiza as informações de um produto existente, identificado pelo ID.
+
 Excluir Produto: Remove um produto do inventário, confirmando antes a exclusão.
 Buscar Produto: Busca produtos pelo ID ou nome (aceita parte do nome).
+
 Sair: Encerra a aplicação.
 Persistência de Dados
 Todos os dados são salvos no arquivo inventario.json. Assim, ao reiniciar a aplicação, as informações já cadastradas serão carregadas automaticamente.
